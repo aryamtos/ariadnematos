@@ -6,7 +6,7 @@
 - Master in Computer Science | ICMC/USP  (_April 2024_)	
 - Bachelor's degree in Computer Science | UESC  (_December 2021_)	
   
-## Work Experience
+
 
 ## Work Experience
 **Research Assistant @ Alana AI (_August 2023 - January 2024_)**
