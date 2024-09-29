@@ -4,8 +4,8 @@
 **PhD Student in Computer Science @ ICMC/USP | AI & Machine Learning Enthusiast**
 
 ![PhD Student](https://img.shields.io/badge/-PhD_Student-blue)
-![Machine Learning](https://img.shields.io/badge/Focus-Machine_Learning-green)
-![Researcher](https://img.shields.io/badge/Research-Audio_Modeling-orange)
+![Machine Learning](https://img.shields.io/badge/Focus-Deep Learning-green)
+![Researcher](https://img.shields.io/badge/Research-Speech Processing-orange)
 
 ## 🎓 Education
 
