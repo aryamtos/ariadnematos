@@ -39,5 +39,11 @@ and CORAA ASR
 - Web Development: HTML, CSS, React
 - Tools: Git, Docker
 
+## 📬 Let's Connect
 
+- [LinkedIn](https://www.linkedin.com/in/ariadne-m-910bb3bb/)
+- [GitHub](https://github.com/aryamtos)
+- [Medium](https://medium.com/@ariadnematos)
+- [Email](ariadnenmtos@gmail.com)
+  
 
