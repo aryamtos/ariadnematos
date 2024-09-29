@@ -1,11 +1,4 @@
-# Computer Scientist
-
-### Education
-
-- PhD Student in Computer Science | ICMC/USP  
-- Master in Computer Science | ICMC/USP  (_April 2024_)	
-- Bachelor's degree in Computer Science | UESC  (_December 2021_)	
-  
+ 
 # 👨‍💻 Computer Scientist & Researcher
 
 **PhD Student in Computer Science @ ICMC/USP | AI & Machine Learning Enthusiast**
@@ -14,29 +7,37 @@
 ![Machine Learning](https://img.shields.io/badge/Focus-Machine_Learning-green)
 ![Researcher](https://img.shields.io/badge/Research-Audio_Modeling-orange)
 
-## Work Experience
-**Research Assistant @ Alana AI (_August 2023 - January 2024_)**
+## 🎓 Education
 
-- Implementation techniques in Wake Word Detection Using Few-Shot Learning and Audio Modeling
-- Technical Research in Automatic Speech Recognition (ASR)
+- **PhD Student in Computer Science** | ICMC/USP  
+- **Master in Computer Science** | ICMC/USP (_April 2024_)  
+- **Bachelor's Degree in Computer Science** | UESC (_December 2021_)  
 
-**Intern @ Harrison Leite Advogados e Associados (_September 2021 - July 2023_)**
+## 💼 Work Experience
 
-- Legal Data Preprocessing and Database Construction
-- Judicial Task Automation
-- Development of Internal Systems for Banking Supervision
+### Research Assistant @ Alana AI _(August 2023 - January 2024)_
+- 🚀 Implemented techniques in Wake Word Detection using Few-Shot Learning and Audio Modeling.
+- 🔍 Conducted technical research in Automatic Speech Recognition (ASR).
 
-**Volunteer @ LIFE jr. (_May 2019 - August 2020_)**
+### Intern @ Harrison Leite Advogados e Associados _(September 2021 - July 2023)_
+- 🗂 Legal data preprocessing and database construction.
+- ⚙️ Automated judicial tasks.
+- 🛠 Developed internal systems for banking supervision.
 
-- Web developer
+### Volunteer @ LIFE jr. _(May 2019 - August 2020)_
+- 🌐 Web developer.
 
+## 📚 Publications
+- **[Accent Classification is Challenging but Pre-training Helps: a case study with novel Brazilian Portuguese datasets](https://aclanthology.org/2024.propor-1.37.pdf)** -  This paper evaluates accent classification for spontaneous speech using CNN-LSTM networks and the Wav2vec2 model. We study the importance of dataset size, pre-trained models, and external validation. For that we used 90 hours of data, encompassing 9 accents and involving 204 speakers of Brazilian Portuguese, obtained from manually annotated subsets from Spotify Podcasts 1
+and CORAA ASR
+- **[Extração de Características de Imagens Mamográficas Baseada em Técnicas de Aprendizado Profundo](https://sol.sbc.org.br/index.php/sbcas_estendido/article/view/20501/20328)** - Custom convolutional neural network with regularization techniques for automatic feature extraction from mammographic images.
 
-### Academic Projects
+## 🛠 Skills
 
-
-
-## Publications
-
+- Programming Languages: Python, JavaScript, C++
+- AI & Machine Learning: PyTorch, Tensorflow, Scikit-learn
+- Web Development: HTML, CSS, React
+- Tools: Git, Docker
 
 
 
