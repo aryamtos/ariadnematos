@@ -6,7 +6,13 @@
 - Master in Computer Science | ICMC/USP  (_April 2024_)	
 - Bachelor's degree in Computer Science | UESC  (_December 2021_)	
   
+# 👨‍💻 Computer Scientist & Researcher
 
+**PhD Student in Computer Science @ ICMC/USP | AI & Machine Learning Enthusiast**
+
+![PhD Student](https://img.shields.io/badge/-PhD_Student-blue)
+![Machine Learning](https://img.shields.io/badge/Focus-Machine_Learning-green)
+![Researcher](https://img.shields.io/badge/Research-Audio_Modeling-orange)
 
 ## Work Experience
 **Research Assistant @ Alana AI (_August 2023 - January 2024_)**
